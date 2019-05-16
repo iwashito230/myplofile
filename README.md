@@ -12,4 +12,5 @@ python課題集[情報元](https://qiita.com/yoichiwo7/items/f8f3e82fc8d97ccc19f
         [課題リンク](http://www.practicepython.org/)
             ├──textcp.py -> PRACTICE_PYTHONで必要なtxtファイル等を取ってくるスクリプトファイル
               ($ python textcp.py)
+ # スキップと書いてあるものは写経。
 ```
